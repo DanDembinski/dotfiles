@@ -1,0 +1,4 @@
+set imap_user=ddembinski@sebis.com
+set folder=imap://mail.sebis.com
+set spoolfile=+INBOX
+set imap_check_subscribed
