@@ -8,7 +8,7 @@
 
 dir=~/.dotfiles                    # dotfiles directory
 olddir=~/dotfiles_old             # old dotfiles backup directory
-files="gitconfig ssh bash_profile conkyrc bashrc mutt_certificates muttrc fehbg"    # list of files/folders to symlink in homedir
+files="gitconfig ssh bash_profile conkyrc bashrc mutt_certificates muttrc"    # list of files/folders to symlink in homedir
 
 ##########
 
