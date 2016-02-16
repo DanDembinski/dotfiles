@@ -67,5 +67,5 @@ $hr
 ${color grey}File systems:
  / $color${fs_used /}/${fs_size /} ${fs_bar 6 /}
 ${color grey}Networking:
-Up:$color ${upspeed wlp0s19f2u2} ${color grey} - Down:$color ${downspeed wlp0s19f2u2}
-Up:$color ${upspeed enp5s0} ${color grey} - Down:$color ${downspeed enp5s0}
+Up:$color ${upspeed wlp3s0} ${color grey} - Down:$color ${downspeed wlp3s0}
+#Up:$color ${upspeed enp5s0} ${color grey} - Down:$color ${downspeed enp5s0}
